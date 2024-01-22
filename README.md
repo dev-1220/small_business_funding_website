@@ -27,3 +27,7 @@ Based on input details entered  app will run a SQL query based on that and will 
 - FAQ section for users
 - Footer with company details
 
+# This project
++ Website is build using Django and Pycharm. Use requirements.txt to download the packages 
++ Clone the project
++ RUN IT YO! YO!

@@ -22,6 +22,10 @@ Based on input details entered  app will run a SQL query based on that and will 
 <img width="719" alt="Screenshot 2024-01-22 at 3 14 41 PM" src="https://github.com/dev-1220/small_business_funding_website/assets/78588667/6f23a428-8c18-43ff-9a7a-b96748ec13bf">
 
 ### Additional Features
-*Dowload the results or the whole programs as a PDF
-*FAQ section for users
-*Footer with company details
+1.Dowload the results or the whole programs as a PDF
+
+  <img width="709" alt="Screenshot 2024-01-22 at 3 20 01 PM" src="https://github.com/dev-1220/small_business_funding_website/assets/78588667/c52e8c47-4005-450f-b326-623be6f5c09e">
+
+1.FAQ section for users
+1.Footer with company details
+

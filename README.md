@@ -1,5 +1,5 @@
 # Ecoforce
-Web Application to find Ontario based energy and sustainability  funding opportunities for small business companies
+Web Application  built using Django and Pycharm to find Ontario based energy and sustainability  funding opportunities for small business companies
 # Problem
 Numerous funding opportunities exist for companies investing in sustainable and energy-efficient projects. Unfortunately, scouring the internet for appropriate funding sources is ineffective in securing financial support. Researching various websites and options can be time-consuming and demanding, and even then, companies may not be aware of all the available opportunities or eligible funding sources. As a result, companies may miss out on valuable funding, resulting in fewer energy projects.
 
@@ -28,6 +28,6 @@ Based on input details entered  app will run a SQL query based on that and will 
 - Footer with company details
 
 # This project
-+ Website is build using Django and Pycharm. Use requirements.txt to download the packages 
++ Use requirements.txt to download the packages 
 + Clone the project
 + RUN IT YO! YO!

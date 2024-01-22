@@ -23,9 +23,7 @@ Based on input details entered  app will run a SQL query based on that and will 
 
 ### Additional Features
 - Dowload the results or the whole programs as a PDF
-
   <img width="709" alt="Screenshot 2024-01-22 at 3 20 01 PM" src="https://github.com/dev-1220/small_business_funding_website/assets/78588667/c52e8c47-4005-450f-b326-623be6f5c09e">
-
 - FAQ section for users
 - Footer with company details
 
